@@ -2,7 +2,6 @@
 Welcome to my github profile!😁
 <br>I'm server developer using Node.js.
 <br>I'm trying to live my everyday with integrity, to fix my lazy personality.😴
-<br>I want to become a "Developer I Want To Work With".
 <br>If anyone wants to work with me to create something awesome that will change the world, please contact me!⭐️
 
 <!--
